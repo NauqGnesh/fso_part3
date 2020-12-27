@@ -23,6 +23,7 @@
 	},
 	"homepage": "https://github.com/NauqGnesh/fso_part3#readme",
 	"devDependencies": {
+		"eslint": "^7.16.0",
 		"nodemon": "^2.0.6"
 	},
 	"dependencies": {
